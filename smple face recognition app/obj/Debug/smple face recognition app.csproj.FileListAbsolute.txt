@@ -1,0 +1,77 @@
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\smple face recognition app.exe.config
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\smple face recognition app.exe
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\smple face recognition app.pdb
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\Emgu.CV.World.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\OpenTK.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\ZedGraph.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\Emgu.CV.World.xml
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\OpenTK.xml
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\ZedGraph.xml
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Debug\smple face recognition app.csprojAssemblyReference.cache
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Debug\smple_face_recognition_app.Form1.resources
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Debug\smple_face_recognition_app.Properties.Resources.resources
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Debug\smple face recognition app.csproj.GenerateResource.cache
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Debug\smple face recognition app.csproj.CoreCompileInputs.cache
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Debug\smple face recognition app.csproj.CopyComplete
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Debug\smple face recognition app.exe
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Debug\smple face recognition app.pdb
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Debug\smple_face_recognition_app.speechrecognition.resources
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Debug\smple_face_recognition_app.minminu.resources
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Debug\smple face recognition app.csprojAssemblyReference.cache
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Debug\smple_face_recognition_app.Form1.resources
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Debug\smple_face_recognition_app.minminu.resources
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Debug\smple_face_recognition_app.Properties.Resources.resources
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Debug\smple face recognition app.csproj.GenerateResource.cache
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Debug\smple face recognition app.csproj.CoreCompileInputs.cache
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Debug\smple face recognition app.exe
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Debug\smple face recognition app.pdb
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\smple face recognition app.exe.config
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\smple face recognition app.exe
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\smple face recognition app.pdb
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\Emgu.CV.World.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\OpenTK.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\ZedGraph.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\Emgu.CV.World.xml
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\OpenTK.xml
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\ZedGraph.xml
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Debug\smple face recognition app.csproj.CopyComplete

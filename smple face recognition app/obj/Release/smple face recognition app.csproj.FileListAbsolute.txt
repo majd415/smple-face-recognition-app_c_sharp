@@ -1,0 +1,75 @@
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\smple face recognition app.exe.config
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\smple face recognition app.exe
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\smple face recognition app.pdb
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\Emgu.CV.UI.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\Emgu.CV.UI.GL.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\Emgu.CV.World.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\OpenTK.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\OpenTK.GLControl.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\System.Collections.Immutable.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\ZedGraph.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\Emgu.CV.UI.xml
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\Emgu.CV.UI.GL.xml
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\Emgu.CV.World.xml
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\OpenTK.xml
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\OpenTK.GLControl.xml
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\ZedGraph.xml
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\de\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\es\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\it\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Release\smple_face_recognition_app.Form1.resources
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Release\smple_face_recognition_app.minminu.resources
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Release\smple_face_recognition_app.Properties.Resources.resources
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Release\smple_face_recognition_app.speechrecognition.resources
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Release\smple face recognition app.csproj.GenerateResource.cache
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Release\smple face recognition app.csproj.CoreCompileInputs.cache
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Release\smple face recognition app.csproj.CopyComplete
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Release\smple face recognition app.exe
+C:\Users\Majd Hammoud\source\repos\smple face recognition app\smple face recognition app\obj\Release\smple face recognition app.pdb
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\smple face recognition app.exe.config
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\smple face recognition app.exe
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\smple face recognition app.pdb
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\Emgu.CV.UI.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\Emgu.CV.UI.GL.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\Emgu.CV.World.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\OpenTK.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\OpenTK.GLControl.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\System.Collections.Immutable.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\ZedGraph.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\Emgu.CV.UI.xml
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\Emgu.CV.UI.GL.xml
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\Emgu.CV.World.xml
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\OpenTK.xml
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\OpenTK.GLControl.xml
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\ZedGraph.xml
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\de\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\es\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\it\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Release\smple_face_recognition_app.Form1.resources
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Release\smple_face_recognition_app.minminu.resources
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Release\smple_face_recognition_app.Properties.Resources.resources
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Release\smple face recognition app.csproj.GenerateResource.cache
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Release\smple face recognition app.csproj.CoreCompileInputs.cache
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Release\smple face recognition app.csproj.CopyComplete
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Release\smple face recognition app.exe
+C:\Users\Majd Hammoud\Desktop\edit project 5\smple face recognition app\smple face recognition app\obj\Release\smple face recognition app.pdb
